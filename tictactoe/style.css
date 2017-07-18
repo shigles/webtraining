@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.vert {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horz {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    margin: auto;
+}

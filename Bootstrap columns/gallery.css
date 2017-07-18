@@ -1,0 +1,34 @@
+body{
+    padding: 70px;
+}
+
+.jumbotron {
+            background-image: url("https://source.unsplash.com/Oaqk7qqNh_c");
+            color: chocolate;
+        }
+
+.navbar-inverse {
+   background-color: chocolate;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-brand {
+    color: white;
+}
+
+/*
+.image {
+  width: 100%;
+  height: 250px;
+  background-size: cover;
+  background-position: center center;
+}
+*/
+
+.thumbnail{
+    height: 250px;
+}
+
